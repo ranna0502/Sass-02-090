@@ -1,3 +1,3 @@
 # ３Dアニメーションでより豊かに表現しよう
-Udemy【Javascript＆CSS】の演習問題となります。
+Udemy【Javascript＆SCSS】の演習問題となります。
 3Dを用いた奥行きのあるボタンを作成します。
